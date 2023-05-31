@@ -1,4 +1,4 @@
-                                     iOS Developer
+
 
 - 🔭 Estudando: Desenvolvimento mobile ( iOS )
 - 💻 Trabalho com: Swift e Firebase.
